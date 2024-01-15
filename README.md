@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Reidark0
-- 👀 I’m interested in be a Veterinary Data Analyst
-- 🌱 I’m currently learning Python, SQL, Flutter and Wwb Front-End
+- 👀 I’m interested in be a Veterinary, Data Analyst or even a Devops!
+- 🌱 I’m currently learning Docker, Kubernetes and CI in gitlabs
 - 💞️ I’m looking to gain experience and make various projects.
 - 📫 My personal email is - rafa.cesar.ti@gmail.com
 - https://www.linkedin.com/in/rafael-data-analyst/
@@ -9,19 +9,13 @@ Reidark0/Reidark0 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-# Analista de dados 
-Minha futura profissão
-## Programação
-É minha ferramenta
-### Estatística
-É minha paixão
+# Estágiario de Devops na NuageIT
+minha primeira experiência profissional
 
-**isso está escrito em negrito**
 
 - Python
 - SQL
-- Flutter
+- Docker
+- JavaScript
+- Web- front
 ---
-1. Postar Gráficos e análises
-2. Postar programas em python
-3. Postar aplicativos de Med Vet
